@@ -6,10 +6,10 @@ Download link: https://www.kaggle.com/datasets/soumikrakshit/anime-faces
 Environment: Kaggle
 
 # Libraries
-numpy
-matplotlib
-keras
-tensorflow
+numpy,
+matplotlib,
+keras,
+tensorflow,
 nltk
 # Neural Network
 Deep Convolutional Generative Adversarial Network (DCGAN)
